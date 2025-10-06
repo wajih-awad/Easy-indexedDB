@@ -1,0 +1,29 @@
+{
+  "name": "@wajih-awad/easy-indexeddb",
+  "version": "1.0.3",
+  "description": "A simple and easy-to-use IndexedDB wrapper library",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "indexeddb",
+    "database",
+    "browser",
+    "storage",
+    "javascript",
+    "wrapper",
+    "promise"
+  ],
+  "author": "Wajih Awad",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wajih-awad/easy-indexeddb.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wajih-awad/easy-indexeddb/issues"
+  },
+  "homepage": "https://github.com/wajih-awad/easy-indexeddb#readme"
+}
